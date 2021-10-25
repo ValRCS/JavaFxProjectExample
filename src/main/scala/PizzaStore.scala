@@ -9,6 +9,8 @@ import javafx.scene.paint.Color
 import javafx.scene.text.Font
 import javafx.stage.Stage
 
+//First stub from Alvin https://alvinalexander.com/source-code/scala-javafx-application-launch-scene-stylesheets/
+
 object PizzaStore {
   def main(args: Array[String]) {
     Application.launch(classOf[PizzaStore], args: _*)
